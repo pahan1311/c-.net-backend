@@ -1,0 +1,60 @@
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+*.user
+*.suo
+*.sln.ide
+*.sln.dotSettings
+*.sln.docfx.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+*.db
+*.pdb
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.appxupload
+*.zip
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+.history/
+
+# Visual Studio
+.vs/
+.vs/*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+*.sln.docfx.json
+*.sln.dotSettings
+
+# Backup files
+*.bak
+*.swp
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Others
+node_modules/
+npm-debug.log
+yarn-error.log
+*.cache
+*.log
+
+# Publish
+publish/
+publish/
